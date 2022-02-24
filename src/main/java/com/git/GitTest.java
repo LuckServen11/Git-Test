@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello,GitHub44444");
         System.out.println("master,GitHub44444");
         System.out.println("testPush,测试远程提交到github");
+        System.out.println("这段代码是在Github网站上写的，需要拉取到本地仓库")
     }
 }
