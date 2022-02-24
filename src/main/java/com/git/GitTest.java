@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("Test,GitHub44444");
         System.out.println("hello,GitHub44444");
         System.out.println("master,GitHub44444");
+        System.out.println("testPush,测试远程提交到github");
     }
 }
